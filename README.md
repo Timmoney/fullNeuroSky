@@ -5,7 +5,6 @@ Ideas: Each individual have different brain wave ranges, in order to optimize th
 How it work:
 
 1. putting your neurosky device, and run our program.
-2. you will see a white circlein changes in size
-3. the program will record your brain wave roughly each second
-4. the attention and mediation wave (two indicators) data can be analyze correspond to certain size of the white circle
-5. future developing --> collective data can be use to optimize certain brain computer interface device.
+2. you will see a white circle changing in size
+3. then the program will record your brain wave roughly each second
+4. future developing --> collective data can be use to optimize certain brain computer interface device.
